@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799518819268",
+    "project_id": "imagerecognition-9ef3b",
+    "storage_bucket": "imagerecognition-9ef3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799518819268:android:00ee3681709bf7a67b9a91",
+        "android_client_info": {
+          "package_name": "com.LYIT.imagerecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799518819268-vbk3721e4cdn12j5e2u4pffr0nqnl2gi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbmyQp-AJ7EZcnAPcTTUdM5tjKu5rUgys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799518819268-vbk3721e4cdn12j5e2u4pffr0nqnl2gi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ImageRecognition</string>
+    <string name="appName">ImageRecognition</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="text_Sign_Up">If do not have an Account!! CLICK ME</string>
+    <string name="text_Sign_In">If already Sign Up!! CLICK ME</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="text_Recognition">Recognition</string>
+    <string name="SignOut">Sign Out</string>
+    <string name="ChangeName">Change Name</string>
+    <string name="ChangeEmail">Change Email</string>
+    <string name="ChangePassword">Change Password</string>
+    <string name="DeleteAcc">Delete Account</string>
+    <string name="text_to_speech">Text To Speech</string>
+    <string name="text_Google">Search by Google</string>
+
+    <string name="facebook_app_id">536902623954420</string>
+    <string name="fb_login_protocol_scheme">fb536902623954420</string>
+</resources>
